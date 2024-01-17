@@ -5,7 +5,7 @@
 // [Script]
 // cron "0 6 * * *" script-path=https://raw.githubusercontent.com/Moli-X/Resources/main/Script/OilPrice.js, timeout=300, tag=今日油价, img-url=https://raw.githubusercontent.com/Moli-X/Resources/main/Icon/Image/OilPrice.png, enabled=true
 
-var region = "qujing";
+var region = "yunnan";
 
 const loondq = $persistentStore.read("曲靖");
 
